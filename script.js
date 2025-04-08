@@ -1,8 +1,8 @@
 const quizData = [
     {
-        question: "1. Who develpoed python programming language?",
-        options: ["Wick van Rossum", "Rasmus Lerdorf", "Guido van Rossum", "Niene Storm"],
-        answer: "Guido van Rossum"
+        question: "1. Who develpoed java programming language?",
+        options: ["Wick van Rossum", "Rasmus Lerdorf", "Guido van Rossum", "james"],
+        answer: "james"
     },
     {
         question: "2. Which type of programming does python support?",
